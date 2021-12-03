@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* font-family: 'PT Sans', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .home,
+.services,
+.products,
+.sign-up {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.services {
+    background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=0%2bPrReih&id=E76D440B79D009730A29DB6C07BC4636095CE90D&thid=OIP.0-PrReih8ak_leJ_X9OO6QEsC7&mediaurl=https%3a%2f%2fwallpapertag.com%2fwallpaper%2ffull%2fa%2fa%2f5%2f116701-black-background-images-1920x1200-pictures.jpg&exph=1200&expw=1920&q=black+background&simid=608006127611968047&FORM=IRPRST&ck=A2259D5573DCE43D37390414AFA2FE40&selectedIndex=3');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+}
+
+.products {
+    background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=0%2bPrReih&id=E76D440B79D009730A29DB6C07BC4636095CE90D&thid=OIP.0-PrReih8ak_leJ_X9OO6QEsC7&mediaurl=https%3a%2f%2fwallpapertag.com%2fwallpaper%2ffull%2fa%2fa%2f5%2f116701-black-background-images-1920x1200-pictures.jpg&exph=1200&expw=1920&q=black+background&simid=608006127611968047&FORM=IRPRST&ck=A2259D5573DCE43D37390414AFA2FE40&selectedIndex=3');
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+}
+
+.sign-up {
+    background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=0%2bPrReih&id=E76D440B79D009730A29DB6C07BC4636095CE90D&thid=OIP.0-PrReih8ak_leJ_X9OO6QEsC7&mediaurl=https%3a%2f%2fwallpapertag.com%2fwallpaper%2ffull%2fa%2fa%2f5%2f116701-black-background-images-1920x1200-pictures.jpg&exph=1200&expw=1920&q=black+background&simid=608006127611968047&FORM=IRPRST&ck=A2259D5573DCE43D37390414AFA2FE40&selectedIndex=3');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+} */
+.cards__profile{
+    display: flex;
+}
+.parent__card{
+    display: inline-block;
+}
